@@ -21,9 +21,7 @@ Run ```http://localhost:8080/news``` in your browser after you have finished ins
 
 - Python: download python for your machine
 
-- aiohttp: run ```pip install aiohttp``` to install the aiohttp library
-
-- BeautifulSoup: run ```pip install beautifulSoup``` to install the beautifulSoup library
+- Run ```pip install requirements.txt``` to install all the requirements
 
 ## Case Study: Scraping the News
 
